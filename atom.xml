@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   
   <title><![CDATA[Hexo]]></title>
-  
+  <subtitle><![CDATA[test]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-26T05:58:17.950Z</updated>
+  <updated>2015-07-26T10:14:22.140Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[kevin]]></name>
     
   </author>
   
@@ -20,10 +20,12 @@
     <link href="http://yoursite.com/2015/07/26/My-New-Post/"/>
     <id>http://yoursite.com/2015/07/26/My-New-Post/</id>
     <published>2015-07-26T05:58:17.000Z</published>
-    <updated>2015-07-26T05:58:17.950Z</updated>
-    <content type="html"></content>
+    <updated>2015-07-26T10:14:22.140Z</updated>
+    <content type="html"><![CDATA[<p>test, my first new post</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>test, my first new post</p>
+]]>
     </summary>
     
   </entry>
